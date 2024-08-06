@@ -17,6 +17,8 @@ Create a user registration form that includes fields for the user.
   - Country is required.
 - Submit button display a summary of the form data below the form.
 
+Solution can be rendered on home page or any other page you wish.
+
 ### Notes
 
 To initialize the app run `make init`.
