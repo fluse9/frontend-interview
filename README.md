@@ -19,6 +19,10 @@ Create a user registration form that includes fields for the user.
 
 ### Notes
 
+To initialize the app run `make init`.
+
+To start the dev server run `make run`.
+
 The current setup includes the following pre-installed libraries:
 
 - React Query
