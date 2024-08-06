@@ -32,6 +32,7 @@ To start the dev server run `make run`.
 
 You are free to solve the problem in whatever way you wish, although the current setup does include the following pre-installed libraries, if you prefer:
 
+- Tailwind
 - React Query
 - React Hook Form
 - `shadcn`
