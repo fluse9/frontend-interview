@@ -26,6 +26,8 @@ Cut a branch and check in your solution when ready.
 
 ### Notes
 
+You are free to search and read online documentation.
+
 To initialize the app run `make init`.
 
 To start the dev server run `make run`.
