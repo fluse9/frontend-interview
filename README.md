@@ -20,6 +20,10 @@ Create a user registration form that includes fields for the user.
 
 Solution can be rendered on home page or any other page you wish.
 
+### Submission
+
+Cut a branch and check in your solution when ready.
+
 ### Notes
 
 To initialize the app run `make init`.
