@@ -16,6 +16,7 @@ Create a user registration form that includes fields for the user.
   - Email is required and should be a valid email address.
   - Country is required.
 - Submit button display a summary of the form data below the form.
+  - No API call otherwise needs to be made for the submission
 
 Solution can be rendered on home page or any other page you wish.
 
@@ -25,10 +26,8 @@ To initialize the app run `make init`.
 
 To start the dev server run `make run`.
 
-The current setup includes the following pre-installed libraries:
+You are free to solve the problem in whatever way you wish, although the current setup does include the following pre-installed libraries, if you prefer:
 
 - React Query
 - React Hook Form
 - `shadcn`
-
-Although you are free to approach the exercise in any direction you wish.
